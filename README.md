@@ -1,2 +1,2 @@
-# demo1
+author # demo1
 my first git repository
